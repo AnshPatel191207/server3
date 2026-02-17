@@ -172,7 +172,7 @@
 
 
 import express from 'express';
-const cors = require("cors");
+import cors from 'cors';
 // const express = require("express");
 
 const app = express();
